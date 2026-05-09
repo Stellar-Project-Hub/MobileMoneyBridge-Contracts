@@ -4,6 +4,8 @@
 
 [![CI](https://github.com/Stellar-Project-Hub/MobileMoneyBridge-Contracts/actions/workflows/ci.yml/badge.svg)](https://github.com/Stellar-Project-Hub/MobileMoneyBridge-Contracts/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Rust](https://img.shields.io/badge/rust-stable-orange.svg)](https://www.rust-lang.org)
+[![Soroban](https://img.shields.io/badge/soroban-smart%20contracts-purple.svg)](https://soroban.stellar.org)
 
 ---
 
