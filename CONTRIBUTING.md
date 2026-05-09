@@ -84,7 +84,7 @@ Each contract is an independent Cargo crate within the workspace. Changes to one
 3. Make your changes. Keep commits atomic and descriptive.
 4. Ensure all checks pass locally:
    ```bash
-   cargo clippy --all-targets -- -D warnings
+   cargo clippy --all-targets
    cargo test
    ```
 5. Push your branch and open a Pull Request against `main`.

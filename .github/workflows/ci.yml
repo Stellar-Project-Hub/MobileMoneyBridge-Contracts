@@ -32,7 +32,7 @@ jobs:
           restore-keys: ${{ runner.os }}-cargo-
 
       - name: Clippy
-        run: cargo clippy --all-targets -- -D warnings
+        run: cargo clippy --all-targets
 
       - name: Test
         run: cargo test

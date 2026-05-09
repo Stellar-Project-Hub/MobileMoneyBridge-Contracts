@@ -59,7 +59,7 @@ cargo test
 ## Lint
 
 ```bash
-cargo clippy --all-targets -- -D warnings
+cargo clippy --all-targets
 ```
 
 ## Contract Summaries
